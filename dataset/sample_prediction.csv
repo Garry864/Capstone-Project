@@ -1,0 +1,21 @@
+year,km_driven,fuel,seller_type,transmission,owner,Brand,predicted_price
+2013,38000,Petrol,Individual,Manual,First Owner,Maruti,270000.0
+2005,20000,Petrol,Individual,Manual,Second Owner,Maruti,120000.0
+2016,40000,Petrol,Individual,Manual,First Owner,Hyundai,480000.0
+2011,65500,Diesel,Individual,Manual,First Owner,Chevrolet,280000.0
+2015,45974,Diesel,Other Dealer,Manual,First Owner,Maruti,650000.0
+2009,57035,Petrol,Other Dealer,Manual,First Owner,Honda,350000.0
+2016,7104,Petrol,Other Dealer,Manual,First Owner,Maruti,440000.0
+2019,9500,Diesel,Individual,Automatic,First Owner,Other,1180000.0
+2005,56580,Petrol,Other Dealer,Manual,First Owner,Hyundai,160000.0
+2011,140000,Diesel,Individual,Manual,First Owner,Mahindra,370000.0
+2017,44000,Diesel,Other Dealer,Manual,First Owner,Hyundai,950000.0
+2016,60000,Petrol,Individual,Manual,First Owner,Maruti,450000.0
+2005,90000,Petrol,Other Dealer,Manual,Second Owner,Hyundai,140000.0
+2016,60000,Diesel,Individual,Manual,Second Owner,Ford,740000.0
+2004,60000,Petrol,Individual,Manual,First Owner,Maruti,100000.0
+2016,30000,Petrol,Individual,Manual,First Owner,Hyundai,540000.0
+2013,52000,Petrol,Individual,Manual,First Owner,Maruti,240000.0
+2001,256000,Diesel,Other Dealer,Manual,First Owner,Toyota,310000.0
+2012,26000,Diesel,Individual,Manual,First Owner,Hyundai,480000.0
+2009,76000,Petrol,Individual,Manual,Second Owner,Maruti,190000.0
