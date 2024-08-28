@@ -80,7 +80,7 @@ with Prediction:
 
     # st.markdown(ppt, unsafe_allow_html=True)
 
-    st.video("assets/presentation.mp4", 
+    st.video("assets/ppt_slide.mp4", 
              loop = True,
              autoplay = True,
              muted = True
