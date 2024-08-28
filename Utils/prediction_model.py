@@ -15,7 +15,7 @@ animation = os.getenv("PREDICTION_URL") or st.secrets["PREDICTION_URL_st"]
 
 @st.cache_resource
 def load_model():
-    with open('saved_models/bag_rf_model.sav', 'rb') as f:
+    with open('saved_models/rf_model.sav', 'rb') as f:
         rf = pickle.load(f)
 
     with open('saved_models/knn_model.sav', 'rb') as f:
