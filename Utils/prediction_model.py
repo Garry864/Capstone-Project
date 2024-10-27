@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-animation = os.getenv("PREDICTION_URL") or st.secrets["PREDICTION_URL_st"]
+animation = os.getenv("PREDICTION_URL") or st.secrets["PRD_2"]
  
 
 # Load the trained model
