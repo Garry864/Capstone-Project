@@ -5,6 +5,9 @@ The "Car Sales Prediction" project aims to forecast car prices based on various 
 
 🟢 **Live Demo:** [Car-Sales-Prediction](https://capstone-car-sales-prediction.streamlit.app/)
 
+## Presentation
+[![Watch the video](https://img.youtube.com/vi/DV8OXING2bg/0.jpg)](https://youtu.be/DV8OXING2bg)
+
 ## 1. Objective
 
 - The primary goal of the "Car Sales Prediction" project is to predict car prices based on input features such as brand, year, mileage, and other specifications.
